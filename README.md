@@ -1,4 +1,4 @@
-# Happiness vs. YouTube: Country-Level Analysis.”
+# Happiness vs. YouTube: Country-Level Analysis.
 
 Country-level analysis of **YouTube reach (February 2024)** and **World Happiness Report 2024**. The project answers three stacked questions: which Latin American markets are largest versus least saturated, whether YouTube penetration co-moves with national happiness, and which countries combine high well-being and income with relatively low YouTube saturation (a **Digital Opportunity Index**).
 
